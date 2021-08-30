@@ -1,0 +1,28 @@
+/*here CSS Icon Bar*/
+
+
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css');
+
+.icon-bar{
+    width :90px;
+    background-color: #555;
+    border-radius: 12px;
+}
+
+.icon-bar a{
+    display: block;
+    text-align: center;
+    padding: 16px;
+    transition:all 0.3s ease;
+    color: ghostwhite;
+    font-size: 36px;
+    border-radius: 12px;
+}
+
+.icon-bar a:hover {
+    background-color: rgb(204, 18, 18);
+}
+
+.home{
+    background-color: #04AA6D;
+}
